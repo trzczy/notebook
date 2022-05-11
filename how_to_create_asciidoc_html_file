@@ -1,0 +1,1 @@
+asciidoctor index.adoc -a toc -a stylesheet=item.css -a linkcss -a allow-uri-read -a source-highlighter=pygments && google-chrome index.html
